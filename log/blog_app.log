@@ -1,0 +1,12 @@
+{"level":"info","fileLogging":true,"jsonLogOutput":true,"logDirectory":"./log","fileName":"blog_app.log","maxSizeMB":5,"maxBackups":5,"maxAgeInDays":10,"caller":"config.go:89","time":"2023-12-25T13:28:19+08:00","message":"logging configured"}
+{"level":"info","caller":"app.go:39","time":"2023-12-25T13:28:19+08:00","message":"gin listening on port :10002"}
+{"level":"warn","caller":"app.go:55","time":"2023-12-25T13:28:21+08:00","message":"Shutting down server..."}
+{"level":"info","fileLogging":true,"jsonLogOutput":true,"logDirectory":"./log","fileName":"blog_app.log","maxSizeMB":5,"maxBackups":5,"maxAgeInDays":10,"caller":"config.go:89","time":"2023-12-25T13:28:31+08:00","message":"logging configured"}
+{"level":"info","caller":"app.go:39","time":"2023-12-25T13:28:31+08:00","message":"gin listening on port :10002"}
+{"level":"warn","caller":"app.go:55","time":"2023-12-25T13:28:32+08:00","message":"Shutting down server..."}
+{"level":"info","fileLogging":true,"jsonLogOutput":true,"logDirectory":"./log","fileName":"blog_app.log","maxSizeMB":5,"maxBackups":5,"maxAgeInDays":10,"caller":"config.go:89","time":"2023-12-25T13:34:20+08:00","message":"logging configured"}
+{"level":"info","caller":"app.go:39","time":"2023-12-25T13:34:20+08:00","message":"gin listening on port :10002"}
+{"level":"warn","caller":"app.go:55","time":"2023-12-25T15:10:37+08:00","message":"Shutting down server..."}
+{"level":"info","fileLogging":true,"jsonLogOutput":true,"logDirectory":"./log","fileName":"blog_app.log","maxSizeMB":5,"maxBackups":5,"maxAgeInDays":10,"caller":"config.go:89","time":"2023-12-25T16:16:29+08:00","message":"logging configured"}
+{"level":"info","caller":"app.go:39","time":"2023-12-25T16:16:29+08:00","message":"gin listening on port :10002"}
+{"level":"warn","caller":"app.go:55","time":"2023-12-25T16:16:30+08:00","message":"Shutting down server..."}
