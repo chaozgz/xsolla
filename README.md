@@ -24,6 +24,7 @@ export LOG_DIR=./log
 ```
 Run app
 ```console
+go mod tidy
 make dev
 ```
 ## API Doc
